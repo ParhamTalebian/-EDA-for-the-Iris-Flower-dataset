@@ -32,4 +32,6 @@ You can install these libraries using the following command:
 ```bash
 pip install pandas matplotlib seaborn
 
-
+## Author
+- [Parham Talebian]
+- ParhamTalebian
